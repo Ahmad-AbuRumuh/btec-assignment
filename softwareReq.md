@@ -28,16 +28,15 @@ Of course there are many risks may face any team during the work on the project,
 
 ### **The list of requirements:**
 
-|* The system should be easy to use because it an online store.|
----
-|* The main page should have a review about the site and links to other pages.|
----
-|* Because we have many products, there should be a list of categories to divide the product to a sections in the store page.|
----
-|* The site should have a cart shopping with all specific details of the purchases.|
----
-|* It must has an online payment method as it's an online shopping.|
----
+* The system should be easy to use because it an online store.
+
+* The main page should have a review about the site and links to other pages.
+
+* Because we have many products, there should be a list of categories to divide the product to a sections in the store page.
+
+* The site should have a cart shopping with all specific details of the purchases.
+
+* It must has an online payment method as it's an online shopping.
 
 <br>
 
