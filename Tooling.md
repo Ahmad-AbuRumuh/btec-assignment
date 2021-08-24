@@ -33,6 +33,26 @@ The platform each concept presents is the main distinction between GitHub and Gi
 
 Working on a huge project in conjunction with several developers? GitHub may be the best option.
 
+3-
+
+* Now I will talk about how these tools helped me in our project:
+
+I will begin with editor which is visual studio code.
+
+IntelliSense code completion, sophisticated semantic code understanding and navigation, and code refactoring are all built-in features, so these features make it very powerful editor beside the simple and easy use when you work on website and you have to link many files for html,css and js.
+
+---
+About ubuntu distribution it is the finest operating system for programming because it comes with a built-in Snap Store.
+
+As a result, developers will be able to quickly reach a larger audience with their apps.
+
+---
+The last thing is GitHub and how it helps us.
+
+GitHub is the center point between our team, as example we was give each one of us a task then when one of us finish his task, he will push the code into github and merge to the basic code.
+
+By this way all the group can work in an organized way without any conflict.
+
 ## References
 
 * Pick, N., Test, S., Wizards, E. and Communities, J., 2021. PyCharm vs Visual Studio Code: Which one to choose for Python development. [online] TechGig. Available at: <https://content.techgig.com/pycharm-vs-visual-studio-code-which-one-to-choose-for-python-development/articleshow/75388084.cms> [Accessed 23 August 2021].
