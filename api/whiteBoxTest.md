@@ -18,3 +18,18 @@ My own key for the locationIQ.
 ![weather key](../testingImages/weather.png)
 
 My own key for the weatherbit.
+<br><br><br>
+
+![map testing](../testingImages/map.png)
+
+Test the results when enter a value.
+<br><br><br>
+
+![weather key](../testingImages/errorTest.png)
+
+To check if there is an error or not.
+<br><br><br>
+
+![weather key](../testingImages/data.png)
+
+This bring the data and return it to print them in the form.

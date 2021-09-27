@@ -18,9 +18,13 @@
 
 ## API Endpoints/Request URLs
 
-[frontEnd](https://github.com/Ahmad-AbuRumuh/city-explorer)
+[GitHub-FrontEnd](https://github.com/Ahmad-AbuRumuh/city-explorer)
 
-[backEnd](https://github.com/Ahmad-AbuRumuh/city-explorer-api)
+[GitHub-BackEnd](https://github.com/Ahmad-AbuRumuh/city-explorer-api)
+
+[Live URL](https://dreamy-yonath-b5a9de.netlify.app/)
+
+[Request URL](https://aburumuh-city-explorer.herokuapp.com/)
 
 ## Authentication Key
 
